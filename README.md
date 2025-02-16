@@ -75,16 +75,16 @@ This project is a dating events app where you can select events around the uk to
 ![Team members page screenshot](team.png)
 
 #### Success Stories
-![Success stories page screenshot]()
+![Success stories page screenshot](success-stories.png)
 
 #### Support
-![Support page screenshot]()
+![Support page screenshot](support.png)
 
 #### FAQ
-![FAQ page screenshot]()
+![FAQ page screenshot](faq.png)
 
 #### Safety tips
-![Safety tips page screenshot]()
+![Safety tips page screenshot](safety.png)
 
 #### Privacy policy
 ![Privacy policy page screenshot](privacy.png)
@@ -95,8 +95,8 @@ This project is a dating events app where you can select events around the uk to
 #### Cookie policy 
 ![Cookie policy page screenshot](cookies.png)
 
-
 #### Error pages
+![404 Error page screenshot](404error.png)
 
 
 ## Deployment
